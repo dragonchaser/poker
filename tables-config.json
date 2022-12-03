@@ -1,14 +1,26 @@
 [
   {
-    "name": "Cairns Can't Backflip",
-    "players": 10,
+    "name": "Deadlands",
+    "players": 2,
     "blind": {
-      "big": 4,
-      "small": 2
+      "big": 1,
+      "small": 1
     },
     "buyIn": {
-      "max": "400",
-      "min": "400"
+      "max": "20",
+      "min": "1"
+    }
+  },
+  {
+    "name": "Freeplay",
+    "players": 10,
+    "blind": {
+        "big": 10,
+        "small": 20
+    },
+    "buyIn": {
+        "max": "1000",
+        "min": "100"
     }
   }
 ]
