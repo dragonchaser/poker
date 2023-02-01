@@ -1,13 +1,13 @@
 [
   {
     "name": "Deadlands",
-    "players": 2,
+    "players": 6,
     "blind": {
       "big": 1,
       "small": 1
     },
     "buyIn": {
-      "max": "20",
+      "max": "40",
       "min": "1"
     }
   },
